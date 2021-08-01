@@ -12,7 +12,7 @@ namespace SimpleAPI.Tests
         public void Test1()
         {
 var output= wController.FetchData(1);
-Assert.Equal("Riturr",output);
+Assert.Equal("Ritu",output);
 
         }
     }
